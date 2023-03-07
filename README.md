@@ -1,6 +1,6 @@
 TIENDA
 
-Llista el nom de tots els productes que hi ha en la taula producto.
+Llista el nom de tots els productes que hi ha en la taula producto.  
 Llista els noms i els preus de tots els productes de la taula producto.
 Llista totes les columnes de la taula producto.
 Llista el nom dels productes, el preu en euros i el preu en dòlars estatunidencs (USD).
